@@ -1,3 +1,3 @@
-# Welcome to My Website
+# FL DIGITAL
 
-This is a simple site using the Cayman theme on GitHub Pages.
+Dynamic marketing agency dedicated to helping businesses grow and thrive in the digital landscape
